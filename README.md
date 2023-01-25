@@ -32,15 +32,15 @@ Together, we can make a difference in the fight against smoking.
 
 # Website
 
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002520.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002604.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002624.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002636.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002648.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002705.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002717.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002731.png?raw=true)
-!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002749.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002520.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002604.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002624.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002636.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002648.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002705.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002717.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002731.png?raw=true)
+![](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002749.png?raw=true)
 
 
 
