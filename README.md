@@ -32,15 +32,15 @@ Together, we can make a difference in the fight against smoking.
 
 # Website
 
-![Screenshot (93)](https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002520.png?raw=true)
-![Screenshot (94)](https://user-images.githubusercontent.com/98808802/214124218-72e13c65-e1fc-43ac-b0aa-e79935c6b357.png)
-![Screenshot (95)](https://user-images.githubusercontent.com/98808802/214124220-1d9adf09-990e-4d80-8be9-0c132a9a32c9.png)
-![Screenshot (96)](https://user-images.githubusercontent.com/98808802/214124166-a9736d0c-e752-46a3-8761-a5e0996ccb9e.png)
-![Screenshot (97)](https://user-images.githubusercontent.com/98808802/214124177-c9a119fc-f3f9-46df-bbb4-a58eed43c9d4.png)
-![Screenshot (98)](https://user-images.githubusercontent.com/98808802/214124186-d1af74de-96ad-479c-b839-b01d8baeadfb.png)
-![Screenshot (99)](https://user-images.githubusercontent.com/98808802/214124190-fb6b2eeb-87ab-492f-8861-549cabdef87e.png)
-![Screenshot (100)](https://user-images.githubusercontent.com/98808802/214124193-0acfd290-e0d5-48a0-8ded-35e20dd07879.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/98808802/214124198-d7a5a19d-5161-4a65-899c-4c4f561b0a67.png)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002520.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002604.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002624.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002636.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002648.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002705.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002717.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002731.png?raw=true)
+!(https://github.com/vivekpathak924/vivekpathak924/blob/main/Screenshot%202023-01-26%20002749.png?raw=true)
 
 
 
